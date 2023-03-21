@@ -1,8 +1,8 @@
 Group Name:  
 
-Team member: Ethan Chang(wujic2) Sissi Wu(ruoyiw3) Shanbo Zhang(shanboz2) Qingyuan Yao(qyao7)
+Team member: Ethan Chang(wujic2) Sissi Wu(ruoyiw3) Shanbo Zhang(shanboz2) Qingyuan Yao(qyao7)//
 
-Project Introduction:
+Project Introduction://
 A simple chat tool consisting of server, client and database. Users can send messages and files to other people, check message records, add friends, etc.
 
 Technical Overview:  

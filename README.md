@@ -1,4 +1,4 @@
-Group Name:  
+Group Name:  Luden's Tempest
 
 Team member: Ethan Chang(wujic2) Sissi Wu(ruoyiw3) Shanbo Zhang(shanboz2) Qingyuan Yao(qyao7)  
 

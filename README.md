@@ -15,7 +15,7 @@ Technical Overview:
   
 Possible challenges:  
   -working with terminals in rust     
-  -familiarize with servers and json with rust
+  -familiarize with servers and json with rust     
   -send and receive data in UDP socket
 
 References:  

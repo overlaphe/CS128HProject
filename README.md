@@ -11,11 +11,11 @@ Technical Overview:
   Checkpoint 2(4/19 to 4/21): client side  
     - Finish the code related to sending messages, and appropriate interactions between the client and the user.  
   Final Projects Submission Due(5/4)  
-    - Finish the file transfer setup including the bundling of messages and communications.
+    - Finish the data transfer setup including the bundling of messages and communications.
   
 Possible challenges:  
-  -working with UI in rust
-  -familiarize with servers and databases with rust 
+  -working with terminals in rust     
+  -familiarize with servers and json with rust 
 
 References:  
   -chat-gpt for the inspiration.  
